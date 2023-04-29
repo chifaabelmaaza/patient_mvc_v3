@@ -15,7 +15,6 @@ Les principales fonctionnalités de cette application incluent:
 ```bash
 git clone https://github.com/your-username/gestion-patients.git
 ```
-</br>
 
 * `Ensuite, vous devez créer une base de données MySQL` appelée * `gestion_patients` et mettre à jour le fichier * `application.properties` avec les informations de connexion à la base de données.
 
@@ -24,7 +23,6 @@ git clone https://github.com/your-username/gestion-patients.git
 ```bash
 mvn spring-boot:run
 ```
-</br>
 
 * `L'application sera ensuite accessible` à l'adresse suivante:
 
@@ -32,7 +30,6 @@ mvn spring-boot:run
 ```bash
 http://localhost:8082/index
 ```
-</br>
 
 <h3> Utilisation </h3>
 Une fois que l'application est en cours d'exécution, vous pouvez l'utiliser pour ajouter, mettre à jour ou supprimer des patients, rechercher des patients par nom.
