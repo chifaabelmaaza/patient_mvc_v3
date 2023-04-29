@@ -9,16 +9,16 @@ Les principales fonctionnalités de cette application incluent:
 - Recherche de patients par nom 
 
 <h3> Installation </h3>
-*`Pour installer l'application, vous devez d'abord cloner le dépôt Github sur votre machine locale`. Vous pouvez le faire en exécutant la commande suivante dans votre terminal:
+* `Pour installer l'application,vous devez d'abord cloner le dépôt Github sur votre machine locale`. Vous pouvez le faire en exécutant la commande suivante dans votre terminal:
 </br></br>
 
 ```bash
 git clone https://github.com/your-username/gestion-patients.git
 ```
 </br>
-*`Ensuite, vous devez créer une base de données MySQL appelée gestion_patients et mettre à jour le fichier application.properties avec les informations de connexion à la base de données.`
+Ensuite, vous devez créer une base de données MySQL appelée * `gestion_patients` et mettre à jour le fichier * `application.properties` avec les informations de connexion à la base de données.
 
-*`Enfin, vous pouvez exécuter l'application` en exécutant la commande suivante à la racine du projet:
+* `Enfin, vous pouvez exécuter l'application` en exécutant la commande suivante à la racine du projet:
 </br>
 </br>
 
